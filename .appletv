@@ -9,8 +9,14 @@ saida_2.ts
 
 
 #EXTINF:1-3 0.000, tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/10/Design-sem-nome-66.jpg",JP NEWS
-https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8?uid=&siteid=431392&pgid=1414778&ab=2&live=0&pgdomain=www.panflix.com.br&ctd=-1
+https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_2.m3u8?uid=&siteid=431392&pgid=1414778&ab=2&live=0&pgdomain=www.panflix.com.br&ctd=-1
 
+#EXTINF:1-3 0.000, tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/10/Design-sem-nome-66.jpg",JP NEWS 2
+https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8?uid=&siteid=431392&pgid=1414778&ab=2&live=0&pgdomain=www.panflix.com.br&ctd=-1&bk-ml=1
+
+#EXTINF:1-3 0.000, tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/10/Design-sem-nome-66.jpg",JP NEWS 3
+https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8?uid=&siteid=431392&pgid=1414778&ab=2&live=0&pgdomain=www.panflix.com.br&ctd=-1&bk-ml=1
+, https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_2.m3u8?uid=&siteid=431392&pgid=1414778&ab=2&live=0&pgdomain=www.panflix.com.br&ctd=-1
 
 #EXTINF:1-3 0.000, tvg-logo="https://i.imgur.com/I1stOTF.png",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
