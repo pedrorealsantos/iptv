@@ -1,11 +1,30 @@
 #EXTM3U
-saida_2.ts
-#EXTINF:0,
-#EXT-X-ENDLIST
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:11167259
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:2899989
+#EXT-X-PROGRAM-DATE-TIME:2021-11-04T00:59:49.097Z
+
+#EXTINF:6.006,
+index_5_2899989.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXTINF:6.006,
+index_5_2899990.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXTINF:6.006,
+index_5_2899991.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXTINF:6.006,
+index_5_2899992.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXTINF:6.006,
+index_5_2899993.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXTINF:6.006,
+index_5_2899994.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXTINF:6.006,
+index_5_2899995.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXTINF:6.006,
+index_5_2899996.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXT-X-PROGRAM-DATE-TIME:2021-11-04T01:00:37.145Z
+#EXTINF:6.006,
+index_5_2899997.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
+#EXTINF:6.006,
+index_5_2899998.ts?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNjU5MjE3NCwiZmlkIjoiZG5ET3cwX2NQTUUiLCJwcm9qZWN0TnVtYmVyIjo0ODIzMjU3NTA1MTF9.AB2LPV8wRAIgRDXt2koA9mfB_q3FqiKMjV8wMgmVYYfHh0UjBkcnzKsCIHpidQ4EVWYVj61iYOagRfxdCYIEnkunQ-urK7izfE8J&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&m=1619205324
 
 
 #EXTINF:1-3 0.000, tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/10/Design-sem-nome-66.jpg",JP NEWS
